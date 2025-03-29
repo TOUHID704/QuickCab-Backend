@@ -178,7 +178,30 @@ mvn test
 ## 🟢 **Using Postman for Testing**  
 1. Import the Postman collection from the [documentation link](https://documenter.getpostman.com/view/21564663/2sAYkHnxQV).  
 2. Set environment variables for `token` and `refreshToken` after authentication.  
-3. Test the endpoints using the collection.  
+3. Test the endpoints using the collection.
+
+## 📸 **Screenshots**  
+
+**IntelliJ IDEA:**  
+![IntelliJ IDEA](https://github.com/user-attachments/assets/8e977025-5cca-4893-ac2b-39a158c3bce9)  
+
+**Visual Studio Code:**  
+![Visual Studio Code](https://github.com/user-attachments/assets/54fabcb3-4396-4120-94bf-089b0b967fa4)
+
+
+**DBeaver:**  
+![DBeaver](https://github.com/user-attachments/assets/9ca0dcc2-5e98-4aaa-8fdd-f7197f2353e1)  
+
+**Postman:**  
+![Postman](https://github.com/user-attachments/assets/d1916658-2902-4395-b3c2-394b37abfe7a)  
+
+**Application UI:**  
+![Application UI](https://github.com/user-attachments/assets/58e2703d-95b5-42a3-a71d-6d80146d9c30)  
+
+
+
+
+
 
 
 ## 📝 **License**  
